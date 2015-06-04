@@ -1,5 +1,7 @@
 # config-persistence
 
+[![Build Status](https://travis-ci.org/luiselizondo/config-persistence.svg?branch=master)](https://travis-ci.org/luiselizondo/config-persistence)
+
 This module helps you persist configuration in a Redis database. Read the example below to understand the motivations.
 
 ### Install
